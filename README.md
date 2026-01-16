@@ -20,5 +20,5 @@ https://www.youtube.com/watch?v=ON9yqulytg0
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `Shashank Raj Dahal`    | `srdahal` |
+| ``    | `` |
 | `<Add more>` | `<CCID>`  |
